@@ -60,7 +60,7 @@ Please refer to [Get Started](https://github.com/hsouri/bob-detection/blob/maste
 
 ## Usage
 
-The config files for all experiments in <strong>Battle of the Backbones (BoB)</strong> can be found [configs/bob](https://github.com/hsouri/bob-detection/tree/master/configs/bob).
+The config files for all experiments in <strong>Battle of the Backbones (BoB)</strong> can be found [configs/bob](https://github.com/hsouri/bob-detection/tree/main/configs/bob).
 
 To train a detector with the existing configs, run:
 
