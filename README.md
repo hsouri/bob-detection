@@ -56,7 +56,7 @@ mv lvis_v1_train.json annotations/
 mv lvis_v1_val.json annotations/
 ```
 
-Please refer to [Get Started](https://github.com/hsouri/bob-detection/blob/main/docs/en/get_started.md), [Dataset Prepare](https://mmdetection.readthedocs.io/en/latest/user_guides/dataset_prepare.html?highlight=dataset), and [Dataset Download](https://mmdetection.readthedocs.io/en/latest/user_guides/useful_tools.html#dataset-download) for more detailed instructions.
+Please refer to [Get Started](https://github.com/hsouri/bob-detection/blob/master/docs/en/get_started.md), [Dataset Prepare](https://mmdetection.readthedocs.io/en/latest/user_guides/dataset_prepare.html?highlight=dataset), and [Dataset Download](https://mmdetection.readthedocs.io/en/latest/user_guides/useful_tools.html#dataset-download) for more detailed instructions.
 
 ## Usage
 
