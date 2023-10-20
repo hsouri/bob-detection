@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pycocotools
+scipy
+six
+terminaltables
+timm
+einops
+transformers
+omegaconf
+pytorch_lightning
